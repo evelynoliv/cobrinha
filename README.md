@@ -1,12 +1,6 @@
-# Hand Control
+# Cobrinha
 
 This is a custom React project to manipulate multiple screens with **Local Storage**.
-
-![Alt worm-image](/public/print.png)
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
